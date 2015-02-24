@@ -1,3 +1,4 @@
-Python 2.7.5 (default, May 15 2013, 22:43:36) [MSC v.1500 32 bit (Intel)] on win32
-Type "copyright", "credits" or "license()" for more information.
->>> 
+#name_file
+def full_name(surname, firstname):
+    return surname +" "+ firstname
+print full_name("Nakiganda", "Susan")
